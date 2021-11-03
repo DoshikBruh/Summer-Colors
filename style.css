@@ -10,27 +10,28 @@ body {
 h1 {
     position: absolute;
     top: 50px;
-    left: 105px;
+    left: 55px;
     width: 200px;
 }
 
 div {
-    height: 600px;
+    height: 500px;
 display: flex;
 align-items: flex-end;
 }
 
 img {
     position: relative;
-    left: 100px;
+    left: 50px;
     width: 200px;
+    width: 45%;
 }
 
-h3 {
+h2 {
     position: absolute;
-    top: 700px;
+    top: 530px;
     right: 500;
-    width: 89%;
+    width: 84%;
     display: flex; 
     justify-content: flex-end
 }
